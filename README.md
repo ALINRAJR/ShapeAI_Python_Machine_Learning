@@ -1,0 +1,2 @@
+# ShapeAI_Python_Machine_Learning
+As far as i am concerned this bootcamp help me to lift up my ideas, thanks for shapeai to help me to develop an interest to the python language as well as the machine learning . I am also looking forward for a platform where i can develop my embedded programming skills i tried to put this into ur notice but i failed.so i wish the shape ai team a great success in their future
